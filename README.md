@@ -2,8 +2,10 @@
 
 ## 👦 Sobre mim:
 
-* 📌 Sou de Goiana, PE - Brasil.
-* 🎯 Carreira em evolução na área de Automação Industrial.
+* 📌 Sou de Goiana, PE - Brasil
+* 🎯 Carreira em evolução na área de Automação Industrial
+* 👨‍🎓 Graduando em Engenharia Elétrica
+* 👨‍🔧 Téc. Em Automação Industrial 🦾
 
 ## Estatísticas gerais
 
