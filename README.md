@@ -3,7 +3,7 @@
 * 📌 João Pessoa - PB, Brasil
 * 🎯 Carreira em evolução na área de Automação Industrial
 * 👨‍🎓 Graduando em Engenharia Elétrica
-* 👨‍🔧 Téc. Em Automação Industrial 🦾
+* 👨‍🔧 Téc. Em Automação Industrial
 
 ## Estatísticas gerais
 
