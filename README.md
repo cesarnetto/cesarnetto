@@ -1,9 +1,9 @@
 # Olá, sou o Cesar Netto 👨‍💻
 
 * 📌 João Pessoa - PB, Brasil
-* 🎯 Carreira em evolução na área de Automação Industrial
+* 🎯 Carreira em evolução na área de Automação de Processos
 * 👨‍🎓 Graduando em Engenharia Elétrica
-* 👨‍🔧 Téc. Em Automação Industrial
+* 👨🏽‍💻 Programador de Software
 
 ## Estatísticas gerais
 
