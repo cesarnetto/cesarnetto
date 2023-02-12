@@ -1,6 +1,5 @@
 # Olá, sou o Cesar Netto 👨‍💻
 
-“Eu não tenho sonhos, tenho objetivos.”<br>
 @sophitecnologia_<br>
 Empresário Digital<br>
 Engenheiro Eletricista<br>
