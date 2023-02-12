@@ -1,9 +1,12 @@
 # Olá, sou o Cesar Netto 👨‍💻
 
-* 📌 João Pessoa - PB, Brasil
-* 🎯 Carreira em evolução na área de Automação de Processos
-* 👨‍🎓 Graduando em Engenharia Elétrica
-* 👨🏽‍💻 Programador de Software
+“Eu não tenho sonhos, tenho objetivos.”
+	•	@sophitecnologia_
+	•	Empresário Digital
+	•	Engenheiro Eletricista
+	•	Desenvolvedor de Software 
+📌 João Pessoa - PB
+
 
 ## Estatísticas gerais
 
