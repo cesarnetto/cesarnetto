@@ -1,6 +1,5 @@
 # Olá, sou o Cesar Netto 👨‍💻
 
-@sophitecnologia_<br>
 Empresário Digital<br>
 Engenheiro Eletricista<br>
 Desenvolvedor de Software <br>
