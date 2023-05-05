@@ -1,5 +1,5 @@
 👨‍💻 Eng, Automação e Technology<br>
-📌 João Pessoa - PB
+
 
 
 ## Estatísticas gerais
