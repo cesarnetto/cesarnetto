@@ -1,8 +1,4 @@
-# Olá, sou o Cesar Netto 👨‍💻
-
-Empresário Digital<br>
-Engenheiro Eletricista<br>
-Desenvolvedor de Software <br>
+👨‍💻 Eng, Automação e Technology
 📌 João Pessoa - PB
 
 
