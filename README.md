@@ -16,7 +16,7 @@ me.say_hi()
 ```
 ## 📈 Minhas estatísticas do GitHub
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarnetto_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarnetto)](https://github.com/cesarnetto/github-readme-stats)
 
 ## 📈 Linguagens mais usadas
 
