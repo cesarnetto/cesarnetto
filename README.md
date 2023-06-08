@@ -30,8 +30,7 @@ me.say_hi()
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=cesarnetto&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=cesarnetto&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 
 
