@@ -1,7 +1,7 @@
 ## Olá Mundo!👋 Eu sou o Cesar Netto
 
 ```python
-class SoftwareDeveloper:
+class ElectricalEngineer:
     def __init__(self):
         self.name = "Cesar Netto"
         self.roles = ["Engenheiro Eletricista", "Python Enthusiast"]
@@ -11,7 +11,7 @@ class SoftwareDeveloper:
     def say_hi(self):
         print("Obrigado pela visita!")
 
-me = SoftwareDeveloper()
+me = ElectricalEngineer()
 me.say_hi()
 ```
 ## 📈 Minhas estatísticas do GitHub
