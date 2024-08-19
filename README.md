@@ -3,8 +3,8 @@
 ```python
 class ElectricalEngineer:
     def __init__(self):
-        self.name = "Cesar Netto"
-        self.roles = ["Engenheiro Eletricista", "Python Enthusiast"]
+        self.name = "Cesar Neto"
+        self.roles = ["Engenheiro Eletricista", "Entusiasta de automação"]
         self.education = "Engenharia Elétrica at Faculdade Internacional da Paraíba"
         self.code_languages = ["Python", "C", "C++"]
 
