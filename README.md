@@ -6,7 +6,7 @@ class ElectricalEngineer:
         self.name = "Cesar Neto"
         self.roles = ["Engenheiro Eletricista", "Entusiasta de automação"]
         self.education = "Engenharia Elétrica at Faculdade Internacional da Paraíba"
-        self.code_languages = ["Python", "C", "C++"]
+        self.code_languages = ["Python", "C/C++"]
 
     def say_hi(self):
         print("Obrigado pela visita!")
