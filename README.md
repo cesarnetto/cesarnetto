@@ -20,7 +20,7 @@ me.say_hi()
 
 ## 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical)
 
 ---
 ## Onde me encontrar:  👇🏼 
