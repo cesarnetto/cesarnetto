@@ -22,6 +22,31 @@ me.say_hi()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical)
 
+### Tech Stack:
+#### Languages:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### Industrial Automation:
+
+![Siemens](https://img.shields.io/badge/-Siemens-007DB8?style=for-the-badge&logo=siemens&logoColor=white)
+![Rockwell](https://img.shields.io/badge/-Rockwell_Automation-FF0000?style=for-the-badge&logo=rockwellautomation&logoColor=white)
+![STL](https://img.shields.io/badge/-STL-008080?style=for-the-badge&logo=stl&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-000000?style=for-the-badge&logo=automation&logoColor=white)
+
+#### Databases:
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Tools:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 ## Onde me encontrar:  👇🏼 
 
