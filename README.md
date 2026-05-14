@@ -16,11 +16,11 @@ me.say_hi()
 ```
 ## 📈 Minhas estatísticas do GitHub
 
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical&hide=issues&hide_border=true)
 
 ## 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical&hide_border=true)
 
 ## Tech Stack:
 #### Languages:
