@@ -14,11 +14,13 @@ class ElectricalEngineer:
 me = ElectricalEngineer()
 me.say_hi()
 ```
-## 📈 Estatísticas
+## 📈 Minhas estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical" />
+## 📈 Linguagens mais usadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical" alt="Top Langs" width="48%" /> </p>
 
 ## Tech Stack:
 #### Languages:
