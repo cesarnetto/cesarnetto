@@ -16,11 +16,11 @@ me.say_hi()
 ```
 ## 📈 Minhas estatísticas do GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarnetto&show_icons=true&theme=radical)
 
 ## 📈 Linguagens mais usadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical" alt="Top Langs" width="48%" /> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnetto&layout=compact&theme=radical)
 
 ## Tech Stack:
 #### Languages:
