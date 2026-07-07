@@ -3,10 +3,26 @@
 ```python
 class ElectricalEngineer:
     def __init__(self):
-        self.name = "Cesar Neto"
-        self.roles = ["Engenheiro Eletricista", "Entusiasta de automação"]
-        self.education = "Engenharia Elétrica at Faculdade Internacional da Paraíba"
-        self.code_languages = ["Python", "C/C++"]
+        self.name = "José Edinaldo Cesarda Cruz Neto (Cesar Neto)"
+
+        self.roles = [
+            "Electrical Engineer", 
+            "Industrial Automation Specialist", 
+            "Software Developer", 
+            "Industry 4.0 Enthusiast"
+        ]
+
+        self.education = {
+            "undergraduate": {
+                "degree": "Bachelor's Degree in Electrical Engineering",
+                "institution": "Faculdade Internacional da Paraíba (FPB)"
+            },
+
+            "postgraduate": {
+                "degree": "Postgraduate Degree in Automation Engineering",
+                "institution": "Centro Universitário Anhanguera Pitágoras Unopar de Niterói"
+            }
+        }
 
     def say_hi(self):
         print("Obrigado pela visita!")
