@@ -1,4 +1,4 @@
-## Olá Mundo!👋 Eu sou o Cesar Netto
+## Olá Mundo!👋 Eu sou o Cesar Neto
 
 ```python
 class ElectricalEngineer:
