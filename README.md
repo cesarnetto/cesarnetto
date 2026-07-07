@@ -3,7 +3,7 @@
 ```python
 class ElectricalEngineer:
     def __init__(self):
-        self.name = "José Edinaldo Cesarda Cruz Neto (Cesar Neto)"
+        self.name = "José Edinaldo Cesar da Cruz Neto (Cesar Neto)"
 
         self.roles = [
             "Electrical Engineer", 
